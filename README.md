@@ -1,4 +1,3 @@
-# LangChain-Rag-TextSplitters-Component-
 # Text Splitters – Complete Guide
 
 ## What is a Text Splitter?
