@@ -1,4 +1,3 @@
-# LangChain-Rag-TextSplitters-Component-
 # Text Splitters – Complete Guide
 
 ## What is a Text Splitter?
@@ -109,7 +108,8 @@ This approach is useful for:
 
 ---
 
-## 4. Semantic Meaning–Based Text Splitter
+## 4. Semantic Meaning–Based Text Splitter 
+Note :Symantic based text splitter is still in expremental phase.
 This splitter groups text based on semantic meaning rather than length or structure.
 
 ### Example
@@ -136,4 +136,4 @@ Text discussing farming, cricket (IPL), and terrorism should ideally produce thr
 
 ## Conclusion
 Text splitters are a critical component in modern LLM-based applications. Choosing the right splitter improves accuracy, performance, and cost efficiency.
-Note :Symantic based text splitter is still in expremental phase.
+
